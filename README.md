@@ -1,4 +1,3 @@
-# Grasshopper-game-VV2
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -411,4 +410,4 @@
     }
   }
 
-  //
+  // *** ADDED: Main game
